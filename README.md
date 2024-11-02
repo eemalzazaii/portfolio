@@ -1,4 +1,4 @@
-# Data analyst
+# Data Analyst
 ### Education
 Computer Sciense, Data analytics, Artificial Intelliegence 
 ### Work Exprience
