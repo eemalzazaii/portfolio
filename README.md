@@ -15,3 +15,7 @@ Bright Way Logistic Company | Kabul, AF | Hybrid
 #### 3- Intepreter | October 2023 - July 2024
 CCIS Organization | Calgary, Ca | Hybrid
 ### PROJECTS
+### Chocolate Sales data analysis
+*  https://github.com/eemalzazaii/Chocolate-sales-analysis
+### Crimes in Calgary data analysis
+*  https://github.com/eemalzazaii/Calgary_Crimes_Data_analysis_Excel
