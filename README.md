@@ -1,7 +1,7 @@
 # Data Analyst | Bi Analyst | Cybersecurity Analyst
 ------------------------------------------------
 ### PROFESSIONAL SUMMERY
-Results-driven Data Analyst with 3 years of experience in collecting, analyzing, and interpreting data to drive business decisions. Proficient in SQL, Python/R, Excel, Tableau/Power BI, and statistical analysis. Strong problem-solving skills with a keen eye for identifying trends and generating actionable insights. Adept at creating dashboards, reports, and predictive models to optimize performance. Passionate about transforming complex data into clear, strategic recommendations for stakeholders.
+  Results-driven Data Analyst with 3 years of experience in collecting, analyzing, and interpreting data to drive business decisions. Proficient in SQL, Python/R, Excel,       Tableau/Power BI, and statistical analysis. Strong problem-solving skills with a keen eye for identifying trends and generating actionable insights. Adept at creating dashboards, reports, and predictive models to optimize performance. Passionate about transforming complex data into clear, strategic recommendations for stakeholders.
 
 ### EDUCATION
 + Bachelor of Computer Sciense
