@@ -7,6 +7,8 @@
 + ibm Data Science Professional Certificate
 + Microsoft Power BI Data Analyst Professional Certificate
 + Microsoft Power BI Certified associate
+
+
 ###   WORK EXPRIENCE
 #### 1- Data Scienstis | March 2025 - Present
 M2M Tech Connect Company | Vancouver, CA | Remote 
@@ -15,5 +17,5 @@ Bright Way Logistic Company | Kabul, AF | Hybrid
 #### 3- Intepreter | October 2023 - July 2024
 CCIS Organization | Calgary, Ca | Hybrid
 ### PROJECTS
-#### *  <a href= "https://github.com/eemalzazaii/Chocolate-sales-analysis">Chocolate Sales Data Analysis & Visualization</a>
-#### *  <a href= "https://github.com/eemalzazaii/Calgary_Crimes_Data_analysis_Excel">Crimes in Calgary data analysis</a>
+#### +  <a href= "https://github.com/eemalzazaii/Chocolate-sales-analysis">Chocolate Sales Data Analysis & Visualization</a>
+#### +  <a href= "https://github.com/eemalzazaii/Calgary_Crimes_Data_analysis_Excel">Crimes in Calgary data analysis</a>
