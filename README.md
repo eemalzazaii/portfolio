@@ -9,6 +9,8 @@
 + ibm Data Science Professional Certificate
 + Microsoft Power BI Data Analyst Professional Certificate
 + Microsoft Power BI Certified associate
++ Npower Canada 6 months junior data analyst program
++ M2M Data Sciense program 
 
 
 ###   WORK EXPRIENCE
